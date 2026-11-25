@@ -1,0 +1,7 @@
+[project]
+name = "arudh"
+version = "0.1.0"
+description = "Arabic prosody (arud) scansion tool with pre-Islamic poetry samples"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
